@@ -6,7 +6,7 @@
 #define w 50              //宽度 
 #define l 20              //长度 
 #define wall '#'          // wall表示墙 
-#define maxlength 100          //蛇最长身长 
+#define maxlength 800          //蛇最长身长 
 // w表示宽度,l表示长度,j表示行数,k表示列数
 char a[l][w];//地图 
 int y[maxlength];
